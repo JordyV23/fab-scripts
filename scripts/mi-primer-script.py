@@ -1,0 +1,16 @@
+def main():
+    print("=" * 50)
+    print("¡Bienvenido a Fab-Scripts!")
+    print("=" * 50)
+    print()
+    print("📚 Curso: Programación y Scripting en Semiconductores")
+    print("🏫 Instituto: ULACIT - Técnico en Semiconductores")
+    print()
+    print("Hola Mundo desde Github 👋")
+    print()
+    print("Este es tu primer script para automatización.")
+    print("¡Felicidades por el inicio!")
+    print()
+    print("=" * 50)
+    
+main()
